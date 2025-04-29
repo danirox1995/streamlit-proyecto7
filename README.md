@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto de Aplicación Web con Streamlit
 
 ## Descripción
@@ -27,3 +28,6 @@ Los usuarios pueden elegir qué gráfico ver usando botones o casillas de verifi
    ```bash
    pip install streamlit pandas plotly
 
+
+# streamlit-proyecto7
+ eaceca7bb99ba5f1fc846ffb1748f2a6fe1b15ce
