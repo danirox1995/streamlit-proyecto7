@@ -31,3 +31,5 @@ Los usuarios pueden elegir qué gráfico ver usando botones o casillas de verifi
 
 # streamlit-proyecto7
  eaceca7bb99ba5f1fc846ffb1748f2a6fe1b15ce
+Puedes ver la aplicación desplegada aquí:  
+👉 [streamlit-proyecto7 en Render](https://streamlit-proyecto7.onrender.com/)
